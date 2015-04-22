@@ -1,0 +1,2 @@
+O programa para de caucular quando o número de bits passa do que o próprio computador suporta.
+Pois depedendo das casas decimais, ele ultrapassa o limite.
